@@ -1,0 +1,2 @@
+You can download the fine-tuning dataset for Spider benchmark below:
+https://drive.google.com/file/d/1TXpDR9GfYPpqu-rTCxlBztUezt5_2K5G/view?usp=sharing
